@@ -6,3 +6,4 @@ HOW TO START THIS PROJECT:
 AUTHORS: Hailey Sonneborn
 USER INSTRUCTIONS:
 Use d to move forward, a to move backward, w to turn counter clockwise, and s to turn clockwise.
+Push the ball across the field while avoiding touching the rocks, the defender, and the training dummy to get to the right hand side of the field.
